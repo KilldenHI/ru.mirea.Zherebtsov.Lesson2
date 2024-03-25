@@ -9,10 +9,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RumireaZherebtsovLesson2" >
         <activity
-            android:name=".SecondActivity"
+            android:name="ru.ZherebtsovND.multiactivity.SecondActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="ru.ZherebtsovND.multiactivity.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

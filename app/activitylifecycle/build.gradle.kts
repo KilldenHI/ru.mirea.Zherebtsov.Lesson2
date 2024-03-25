@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.activitylifecycle"
+    namespace = "ru.ZherebtsovND.activitylifecycle"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.activitylifecycle"
+        applicationId = "ru.ZherebtsovND.activitylifecycle"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

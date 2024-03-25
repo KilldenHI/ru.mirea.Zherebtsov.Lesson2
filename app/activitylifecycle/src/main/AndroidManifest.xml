@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RumireaZherebtsovLesson2">
         <activity
-            android:name=".MainActivity"
+            android:name="ru.ZherebtsovND.activitylifecycle.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

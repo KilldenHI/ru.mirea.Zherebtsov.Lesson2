@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.intentfilter"
+    namespace = "ru.ZherebtsovND.intentfilter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.intentfilter"
+        applicationId = "ru.ZherebtsovND.intentfilter"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

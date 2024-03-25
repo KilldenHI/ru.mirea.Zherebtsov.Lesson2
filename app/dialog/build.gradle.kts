@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dialog"
+    namespace = "ru.ZherebtsovND.dialog"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.dialog"
+        applicationId = "ru.ZherebtsovND.dialog"
         minSdk = 26
         targetSdk = 33
         versionCode = 1

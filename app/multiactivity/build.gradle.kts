@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.multiactivity"
+    namespace = "ru.ZherebtsovND.multiactivity"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.multiactivity"
+        applicationId = "ru.ZherebtsovND.multiactivity"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.notificationapp"
+    namespace = "ru.ZherebtsovND.notificationapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.notificationapp"
+        applicationId = "ru.ZherebtsovND.notificationapp"
         minSdk = 26
         targetSdk = 33
         versionCode = 1

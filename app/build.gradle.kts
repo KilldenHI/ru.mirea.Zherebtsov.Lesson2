@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rumireazherebtsovlesson2"
+    namespace = "ru.ZherebtsovND.rumireazherebtsovlesson2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.rumireazherebtsovlesson2"
+        applicationId = "ru.ZherebtsovND.rumireazherebtsovlesson2"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

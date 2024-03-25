@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.toastapp"
+    namespace = "ru.ZherebtsovND.toastapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.toastapp"
+        applicationId = "ru.ZherebtsovND.toastapp"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
